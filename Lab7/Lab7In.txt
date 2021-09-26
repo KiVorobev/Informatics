@@ -1,0 +1,58 @@
+{
+	"timetable": [
+		{
+			"subject": "Basic Math",
+			"type": "lecture",
+			"time": "11:40-13:10",
+			"room": "466",
+			"professor": "Tertychny",
+			"location": "Kronverkskiy, 49A",
+			"format": "mixed"
+		},
+		{
+			"subject": "Mathematical analysis",
+			"type": "lecture",
+			"time": "13:30-15:00",
+			"room": "1513",
+			"professor": "Boycev",
+			"location": "Lomonosova, 9M",
+			"format": "mixed"
+		},
+		{
+			"subject": "Linear algebra",
+			"type": "lection",
+			"time": "15:20-16:50",
+			"room": "1513",
+			"professor": "Trifanov",
+			"location": "Lomonosova, 9M",
+			"format": "mixed"
+		},
+		{
+			"subject": "Basic Math",
+			"type": "practic",
+			"time": "15:20-16:50",
+			"room": "412",
+			"professor": "Korotina",
+			"location": "Kronverkskiy, 49",
+			"format": "mixed"
+		},
+		{
+			"subject": "Linear algebra",
+			"type": "practic",
+			"time": "17:00-18:30",
+			"room": "1513",
+			"professor": "Trifanov",
+			"location": "Lomonosova, 9M",
+			"format": "mixed"
+		},
+		{
+			"subject": "Mathematical analysis",
+			"type": "lection",
+			"time": "18:40-20:10",
+			"room": "1513",
+			"professor": "Boycev",
+			"location": "Lomonosova, 9M",
+			"format": "mixed"
+		}
+	]
+}
